@@ -1,2 +1,1 @@
-# python-oop-learning
-Learning OOP in Python
+#python-oop-learning
