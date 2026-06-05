@@ -1,7 +1,6 @@
 class BankAccount: 
 
-#testing multiple repos in VS Code
-
+#test
     bank_name = "MyBank"
 
     def __init__(self, owner, balance=0):
