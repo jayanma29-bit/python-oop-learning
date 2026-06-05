@@ -1,10 +1,5 @@
 class BankAccount: 
 
-#test2
-
-#testing commit 
-
-
     bank_name = "MyBank"
 
     def __init__(self, owner, balance=0):
