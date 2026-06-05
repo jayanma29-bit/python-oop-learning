@@ -1,6 +1,6 @@
 class BankAccount: 
 
-#test
+#test2
     bank_name = "MyBank"
 
     def __init__(self, owner, balance=0):
