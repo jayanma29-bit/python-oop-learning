@@ -111,10 +111,6 @@ teacher.add_grade("Bao", -5) # this should be rejected since the grade is too lo
 
 print(teacher.students["Bao"].get_grade_letter()) # should print C
 
-print(teacher.students["Bao"].get_grade_number()) 
-
-
-        
-
+print(teacher.students["Bao"].get_grade_number())
 
 
